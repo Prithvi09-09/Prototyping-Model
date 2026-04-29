@@ -3,7 +3,7 @@
 ## Student Details
 Course: B.Tech R&Ai 
 College: MRU  
-Batch No: 5  
+Batch No: MRU-INEC-0825-CSE2029  
 Task No: 17 
 Task Name: Prototyping Model  
 
